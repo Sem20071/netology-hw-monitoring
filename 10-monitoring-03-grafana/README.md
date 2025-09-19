@@ -56,4 +56,4 @@ promql-запросы:
 ![Скриншот задание 3](https://github.com/Sem20071/netology-hw-monitoring/blob/main/10-monitoring-03-grafana/images/dz-02-grafana-03.png)
 
 ## Задание 4
-# https://github.com/Sem20071/netology-hw-monitoring/blob/main/10-monitoring-03-grafana/my_dashboard.json
+### https://github.com/Sem20071/netology-hw-monitoring/blob/main/10-monitoring-03-grafana/my_dashboard.json
