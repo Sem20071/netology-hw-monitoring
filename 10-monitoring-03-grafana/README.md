@@ -31,10 +31,10 @@
 
 Ответ:
 # Задание 1
-![Скриншот задание 1]()
+![Скриншот задание 1](https://github.com/Sem20071/netology-hw-monitoring/blob/main/10-monitoring-03-grafana/images/dz-02-grafana-01.png)
 
 # Задание 2
-![Скриншот задание 2]()
+![Скриншот задание 2](https://github.com/Sem20071/netology-hw-monitoring/blob/main/10-monitoring-03-grafana/images/dz-02-grafana-02.png)
 
 promql-запросы:
 1. утилизация CPU для nodeexporter (в процентах, 100-idle);
@@ -49,3 +49,7 @@ promql-запросы:
 # Задание 3
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
 2. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
+![Скриншот задание 3](https://github.com/Sem20071/netology-hw-monitoring/blob/main/10-monitoring-03-grafana/images/dz-02-grafana-03.png)
+
+# Задание 4
+https://github.com/Sem20071/netology-hw-monitoring/blob/main/10-monitoring-03-grafana/my_dashboard.json
